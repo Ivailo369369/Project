@@ -1,0 +1,13 @@
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\bin\Debug\netcoreapp3.1\BricksWorkOOPVersion.exe
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\bin\Debug\netcoreapp3.1\BricksWorkOOPVersion.deps.json
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\bin\Debug\netcoreapp3.1\BricksWorkOOPVersion.runtimeconfig.json
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\bin\Debug\netcoreapp3.1\BricksWorkOOPVersion.runtimeconfig.dev.json
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\bin\Debug\netcoreapp3.1\BricksWorkOOPVersion.dll
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\bin\Debug\netcoreapp3.1\BricksWorkOOPVersion.pdb
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\obj\Debug\netcoreapp3.1\BricksWorkOOPVersion.csprojAssemblyReference.cache
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\obj\Debug\netcoreapp3.1\BricksWorkOOPVersion.AssemblyInfoInputs.cache
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\obj\Debug\netcoreapp3.1\BricksWorkOOPVersion.AssemblyInfo.cs
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\obj\Debug\netcoreapp3.1\BricksWorkOOPVersion.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\obj\Debug\netcoreapp3.1\BricksWorkOOPVersion.dll
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\obj\Debug\netcoreapp3.1\BricksWorkOOPVersion.pdb
+C:\Users\Ivo\source\repos\BricksWorkOOPVersion\BricksWorkOOPVersion\obj\Debug\netcoreapp3.1\BricksWorkOOPVersion.genruntimeconfig.cache
